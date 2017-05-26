@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge-1.10.2-hello-word.iml" filepath="$PROJECT_DIR$/.idea/modules/forge-1.10.2-hello-word.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge-1.10.2-hello-word_api.iml" filepath="$PROJECT_DIR$/.idea/modules/forge-1.10.2-hello-word_api.iml" group="forge-1.10.2-hello-word" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge-1.10.2-hello-word_main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge-1.10.2-hello-word_main.iml" group="forge-1.10.2-hello-word" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge-1.10.2-hello-word_test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge-1.10.2-hello-word_test.iml" group="forge-1.10.2-hello-word" />
+    </modules>
+  </component>
+</project>
